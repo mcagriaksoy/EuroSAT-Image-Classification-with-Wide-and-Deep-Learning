@@ -4,8 +4,9 @@ Hi, welcome to my research of wide and deep learning :)
 
 I would like to special thanks to my professeurs and supporters.
 
-Beril Sirmacek b.sirmacek@saxion.nl
-Cem Unsalan cem.unsalan@marmara.edu.tr
+Beril Sirmacek b.sirmacek@saxion.nl and Cem Unsalan cem.unsalan@marmara.edu.tr
+
+![EuroSAT Sample Images](https://github.com/mcagriaksoy/EuroSAT-Image-Classification-with-Wide-and-Deep-Learning/blob/main/eurosat_overview.jpg)
 
 # Dataset Preparation 
 This will connect to my drive and copy the contents from my related drive path.
