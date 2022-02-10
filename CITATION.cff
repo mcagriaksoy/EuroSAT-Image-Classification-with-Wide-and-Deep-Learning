@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+authors:
+- family-names: "Aksoy"
+  given-names: "Mehmet Çağrı"
+  orcid: " https://orcid.org/0000-0002-7886-7945 "
+title: "Object Recognition in EuroSAT Satellite Images using Wide and Deep Learning Models"
+version: 1.0
+date-released: 2022
+url: "https://github.com/mcagriaksoy"
